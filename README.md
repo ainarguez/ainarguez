@@ -17,7 +17,7 @@ const ainara = {
 }
 ```
 
-<p>I haven't finished my studies yet, so I will be adding more content and making changes as I progress.</p>
+> **IMPORTANT:**  I haven't finished my studies yet, so I will be adding more content and making changes as I progress.
 
 
 <em><b>I'm always open to new opportunities.</b> If you're looking for someone passionate about web development and design, let's connect! :)</em>
