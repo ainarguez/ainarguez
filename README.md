@@ -8,7 +8,6 @@
 const ainara = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Bootstrap, Javascript, PHP, Python, MySQL],
-  languages: { spanish: "Native", english: "B1", german: "A2" }
   currentProject: {
          name: "Portfolio DAW",
          description: "Building an interactive portfolio."
